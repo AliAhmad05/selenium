@@ -1,0 +1,9 @@
+is_displayed()
+is_enabled()
+is_selected()
+multi.select_by_index() ==============================================> demo_dropdown_single_select.py
+var.screenshot(.\\test.png)
+driver.switch_to.frame("iframe_name/iframe_id")
+achains.context_click().perform()
+achains.double_click().perform() =====================================> demo_mouse_hover.py
+drag_and_drop_by_offset(elem,y,x).perform() ==========================> demo_drag_&_drop.py

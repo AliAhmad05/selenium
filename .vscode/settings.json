@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "browserdrivers",
+        "chromedriver",
+        "findbyid"
+    ],
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+
+}
